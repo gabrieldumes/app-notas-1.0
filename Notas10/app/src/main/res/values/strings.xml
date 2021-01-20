@@ -1,0 +1,15 @@
+<resources>
+    <string name="app_name">Notas 1.0</string>
+    <string name="teste">
+        Lorem ipsum dolor sit amet, consectetur adipiscing elit. In sit amet pulvinar justo, a auctor ligula. In viverra porttitor purus id sollicitudin. Mauris porttitor nunc vel diam consectetur suscipit. Sed tristique pharetra massa, et posuere sem. Suspendisse leo ex, tempus sed libero eget, consectetur vulputate turpis.
+        Pellentesque dui enim, gravida ut ipsum eget, elementum lobortis mauris. Ut dapibus metus nisl, in maximus lorem condimentum a. Ut et enim gravida, suscipit risus et, egestas purus. Pellentesque sed orci ut ligula iaculis vestibulum. Nullam id nibh ut elit tempus laoreet. Nulla eu suscipit diam. Mauris ex tortor, rhoncus in gravida a, luctus ut justo. Quisque eu neque efficitur elit venenatis faucibus. Ut laoreet felis purus, eu posuere libero malesuada at.
+    </string>
+    <string name="teste1">
+        In sit amet pulvinar justo, a auctor ligula.
+    </string>
+    <string name="teste2">
+        In viverra porttitor purus id sollicitudin. Mauris porttitor nunc vel diam consectetur suscipit. Sed tristique pharetra massa, et posuere sem. Suspendisse leo ex, tempus sed libero eget, consectetur vulputate turpis.
+
+        Pellentesque dui enim, gravida ut ipsum eget, elementum lobortis mauris.
+    </string>
+</resources>
